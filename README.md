@@ -1,0 +1,2 @@
+# your own YouTube channel
+ Manage **your own YouTube channel** from OpenCode with an AI agent that works through a dedicated MCP server: channel audits, Analytics, comments, SEO updates, thumbnails, caption export, and uploads — with hard safety rules: every write is dry-run first, confirmed by you, quota is capped at 90%, and uploads default to **private**.  This README covers **everything**: what it is, how it works, how to install it from zero, how to use every feature, how to maintain it, and how to fix problems.
