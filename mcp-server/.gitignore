@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+*.tsbuildinfo
+
+# secrets - NEVER commit these
+.env
+token.json
+client_secret*.json
+
+# runtime state
+exports/
+quota.json
+project.json
+channel.json
